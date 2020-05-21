@@ -1,0 +1,27 @@
+{
+  "name": "google-sheet-control-panel-v2",
+  "version": "2.0.0",
+  "description": "the google application for gsuite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliLinuxF/Administrators-Control-Panel-v2.git"
+  },
+  "keywords": [
+    "google",
+    "sheet",
+    "drive"
+  ],
+  "author": "vk.com/roflonton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaliLinuxF/Administrators-Control-Panel-v2/issues"
+  },
+  "homepage": "https://github.com/KaliLinuxF/Administrators-Control-Panel-v2#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
